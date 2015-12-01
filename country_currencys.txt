@@ -12,6 +12,7 @@ AMD,
 AWG,
 AUD,
 EUR,
+azcac
 
 AZN,
 BSD,
