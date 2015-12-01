@@ -1,0 +1,7 @@
+a.special querires:
+
+1.all the customers of borker.
+2.benchmark of broker - the performances of all of the deals commited by broker.
+3.company benchmark - the performances of all of the company.
+4.total company holdings on USD
+5.the total value of all the accounts which specific customer is one of it's owners
