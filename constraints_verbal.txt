@@ -1,0 +1,11 @@
+constrains:
+Brokers -
+1.make transactions after begin work date.
+
+Accounts -
+1.make transactions after creations
+
+Transactions -
+1.Buy before sell.
+2.Sell just if exist this amount.
+   
